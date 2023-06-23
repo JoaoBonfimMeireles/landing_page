@@ -7,10 +7,11 @@
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="assets/readme%20cell.jpg" width="30%">
-  <img alt="projeto DevLinks" src="assets/readme%20menu.jpg" width="30%">
+  <img alt="projeto DevLinks" src="assets/readme%20cell.jpg" width="50%">
 </p>
-
+<p align="center">
+  <img alt="projeto DevLinks" src="assets/readme%20menu.jpg" width="50%">
+</p>
 
 ## 🚀 Tecnologias
 
