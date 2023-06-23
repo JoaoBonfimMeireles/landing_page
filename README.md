@@ -8,7 +8,7 @@
 
 <p align="center">
   <img alt="projeto DevLinks" src="assets/readme%20cell.jpg" width="40%" style="padding: 0 10px;">
-  <img alt="projeto DevLinks" src="assets/readme%20menu.jpg" width="40%" style="padding: 0 10px;">
+  <img alt="projeto DevLinks" src="assets/readme%20menu.jpg" width="40%" style="padding: 0 80px;">
 </p>
 
 
